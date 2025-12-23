@@ -46,9 +46,7 @@ A full-stack web application designed to streamline the process of scheduling me
       <br />
       <strong>Doctor Login</strong>
     </td>
-
     <td width="50" style="border: none;"></td>
-
     <td align="center" style="border: none;">
       <img width="800" height="720" alt="Screenshot 2025-12-23 084932" src="https://github.com/user-attachments/assets/4cc25284-a408-45a7-97fe-9400325dd927" />
       <br />
