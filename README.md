@@ -39,6 +39,7 @@ A full-stack web application designed to streamline the process of scheduling me
 ### 🔑 Authentication (Login/Signup)
 *Secure access for both Patients and Doctors.*
 ![Login Page]
+<br/>
 **Doctor Login**
 <img width="1917" height="964" alt="Screenshot 2025-12-23 085743" src="https://github.com/user-attachments/assets/2dc3ede9-4a61-43c8-9286-fe3f0bb469d9" />
 **Patients Login**
