@@ -41,12 +41,13 @@ A full-stack web application designed to streamline the process of scheduling me
 ![Login Page]
 <p align="center">
   <kbd>
-    <img width="800" height="720" alt="Screenshot 2025-12-23 085743" src="https://github.com/user-attachments/assets/2dc3ede9-4a61-43c8-9286-fe3f0bb469d9" />
+    <img width="400" alt="Screenshot 2025-12-23 085743" src="https://github.com/user-attachments/assets/2dc3ede9-4a61-43c8-9286-fe3f0bb469d9" />
     <br />
     <b>Doctor Login</b>
+    <br>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp; <kbd>
-    <img width="800" height="720" alt="Screenshot 2025-12-23 084932" src="https://github.com/user-attachments/assets/4cc25284-a408-45a7-97fe-9400325dd927" />
+    <img width="400" alt="Screenshot 2025-12-23 084932" src="https://github.com/user-attachments/assets/4cc25284-a408-45a7-97fe-9400325dd927" />
     <br />
     <b>Patients Login</b>
   </kbd>
