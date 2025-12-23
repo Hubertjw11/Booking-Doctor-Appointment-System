@@ -33,12 +33,12 @@ A full-stack web application designed to streamline the process of scheduling me
 ## 📷 Screenshots
 
 ### 🖥️ Landing Page
-*The first thing users see—an overview of services and a "Get Started" call to action.*
+*The first thing users see—an overview of services and a "Book Appointment" call to action.*
 ![Landing Page](./screenshots/landing.png)
 
 ### 🔑 Authentication (Login/Signup)
 *Secure access for both Patients and Doctors.*
-![Login Page](./screenshots/login.png)
+![Login Page](./"C:\Users\USER\OneDrive - Bina Nusantara\Pictures\Screenshots\Screenshot 2025-12-23 084926.png")
 
 ### 🔍 Search & Filter Doctors
 *Users can filter doctors by specialization (e.g., General Physician, Gynecologist, Dermatologist).*
