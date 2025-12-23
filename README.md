@@ -38,7 +38,7 @@ A full-stack web application designed to streamline the process of scheduling me
 
 ### 🔑 Authentication (Login/Signup)
 *Secure access for both Patients and Doctors.*
-![Login Page](./D:\prescripto\frontend\src\assets)
+![Login Page](./D:\prescripto\frontend\src\assets\about_image.png)
 
 ### 🔍 Search & Filter Doctors
 *Users can filter doctors by specialization (e.g., General Physician, Gynecologist, Dermatologist).*
