@@ -39,12 +39,20 @@ A full-stack web application designed to streamline the process of scheduling me
 ### 🔑 Authentication (Login/Signup)
 *Secure access for both Patients and Doctors.*
 ![Login Page]
-<br/>
-**Doctor Login**
-<br/>
-<img width="800" height="720" alt="Screenshot 2025-12-23 085743" src="https://github.com/user-attachments/assets/2dc3ede9-4a61-43c8-9286-fe3f0bb469d9" />
-**Patients Login**
-<img width="800" height="720" alt="Screenshot 2025-12-23 084932" src="https://github.com/user-attachments/assets/4cc25284-a408-45a7-97fe-9400325dd927" />
+<table>
+  <tr>
+    <td align="center">
+      <img width="800" height="720" alt="Screenshot 2025-12-23 085743" src="https://github.com/user-attachments/assets/2dc3ede9-4a61-43c8-9286-fe3f0bb469d9" />
+      <br />
+      <h3>Doctor Login</h3>
+    </td>
+    <td align="center">
+      <img width="800" height="720" alt="Screenshot 2025-12-23 084932" src="https://github.com/user-attachments/assets/4cc25284-a408-45a7-97fe-9400325dd927" />
+      <br />
+      <h3>Patients Login</h3>
+    </td>
+  </tr>
+</table>
 
 
 ### 🔍 Search & Filter Doctors
