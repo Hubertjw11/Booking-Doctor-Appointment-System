@@ -39,22 +39,18 @@ A full-stack web application designed to streamline the process of scheduling me
 ### 🔑 Authentication (Login/Signup)
 *Secure access for both Patients and Doctors.*
 ![Login Page]
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img width="800" height="720" alt="Screenshot 2025-12-23 085743" src="https://github.com/user-attachments/assets/2dc3ede9-4a61-43c8-9286-fe3f0bb469d9" />
-      <br />
-      <strong>Doctor Login</strong>
-    </td>
-    <td width="50" style="border: none;"></td>
-    <td align="center" style="border: none;">
-      <img width="800" height="720" alt="Screenshot 2025-12-23 084932" src="https://github.com/user-attachments/assets/4cc25284-a408-45a7-97fe-9400325dd927" />
-      <br />
-      <strong>Patients Login</strong>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <kbd>
+    <img width="800" height="720" alt="Screenshot 2025-12-23 085743" src="https://github.com/user-attachments/assets/2dc3ede9-4a61-43c8-9286-fe3f0bb469d9" />
+    <br />
+    <b>Doctor Login</b>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp; <kbd>
+    <img width="800" height="720" alt="Screenshot 2025-12-23 084932" src="https://github.com/user-attachments/assets/4cc25284-a408-45a7-97fe-9400325dd927" />
+    <br />
+    <b>Patients Login</b>
+  </kbd>
+</p>
 
 ### 🔍 Search & Filter Doctors
 *Users can filter doctors by specialization (e.g., General Physician, Gynecologist, Dermatologist).*
