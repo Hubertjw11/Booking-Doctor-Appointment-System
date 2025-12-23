@@ -34,7 +34,8 @@ A full-stack web application designed to streamline the process of scheduling me
 
 ### 🖥️ Landing Page
 *The first thing users see—an overview of services and a "Book Appointment" call to action.*
-![Landing Page]<img width="750" alt="Screenshot 2025-12-23 093707" src="https://github.com/user-attachments/assets/7592b5e8-b0d6-4471-833f-3ca8ee62035d" />
+![Landing Page]
+<img width="750" alt="Screenshot 2025-12-23 093707" src="https://github.com/user-attachments/assets/7592b5e8-b0d6-4471-833f-3ca8ee62035d" />
 
 
 ### 🔑 Authentication (Login/Signup)
@@ -56,7 +57,8 @@ A full-stack web application designed to streamline the process of scheduling me
 
 ### 🔍 Search & Filter Doctors
 *Users can filter doctors by specialization (e.g., General Physician, Gynecologist, Dermatologist).*
-![Search Doctors](./screenshots/search.png)
+![Search Doctors]
+<img width="1757" height="968" alt="Screenshot 2025-12-23 093958" src="https://github.com/user-attachments/assets/cd83ff84-7a57-4eab-aa2a-a03f51369335" />
 
 ### 📅 Appointment Booking
 *The booking page where patients select available dates and time slots.*
