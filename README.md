@@ -34,7 +34,8 @@ A full-stack web application designed to streamline the process of scheduling me
 
 ### 🖥️ Landing Page
 *The first thing users see—an overview of services and a "Book Appointment" call to action.*
-![Landing Page](./screenshots/landing.png)
+![Landing Page]<img width="550" alt="Screenshot 2025-12-23 093707" src="https://github.com/user-attachments/assets/7592b5e8-b0d6-4471-833f-3ca8ee62035d" />
+
 
 ### 🔑 Authentication (Login/Signup)
 *Secure access for both Patients and Doctors.*
